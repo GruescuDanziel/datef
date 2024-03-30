@@ -1,5 +1,5 @@
 {
-  "name": "FAGDP",
+  "name": "fagdp",
   "version": "0.0.1",
   "description": "FAGDP (Finally A Good Date Package) - A package to finally put an end to all the issues developers face with dates and timezones",
   "main": "dist/index.js",
